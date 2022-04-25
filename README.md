@@ -1,6 +1,6 @@
 # litespeed-images
 
-###How To Create OpenLiteSpeed + Wordpress Cloud Image:
+### How To Create OpenLiteSpeed + Wordpress Cloud Image:
 1. Launch a Server
 Choose the Long Term Support version for the base image, e.g. Ubuntu 20.04.
 
